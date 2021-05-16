@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Genius.NET
+namespace Genius
 {
 	public class Utilities
 	{

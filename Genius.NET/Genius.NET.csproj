@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Genius</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>lordofkhaos</Authors>
+    <Company>lordofkhaos</Company>
+    <Description>An asynchronous library designed to simplify access to the Genius API</Description>
+    <Copyright>2021</Copyright>
+    <RepositoryUrl>https://github.com/lordofkhaos/Genius.NET</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
 </Project>
